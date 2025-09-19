@@ -6,7 +6,7 @@
   "modules": {
     "dglabcoyote.modules.medal": {
       "name": "dglab_coyote",
-      "description": "This module allow you to connect your DGLab Coyote 3.0",
+      "description": "This module allows you to connect your DGLab Coyote 3.0",
       "sourceUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule",
       "iconUrl": "https://raw.githubusercontent.com/pokerfaceuhd/OpenshockModuleInformation/main/DgLabModule-Icon.png",
       "versions": {
