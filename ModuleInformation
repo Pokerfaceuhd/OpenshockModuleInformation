@@ -8,9 +8,9 @@
       "name": "dglab_coyote",
       "description": "This module allow you to connect your DGLab Coyote 3.0",
       "sourceUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule",
-      "iconUrl": "https://download.openshock.org/desktop_modules/Medal/Medal-Icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/pokerfaceuhd/OpenshockModuleInformation/main/DgLabModule-Icon.png",
       "versions": {
-        "1.0.0": {
+        "0.1.0": {
           "url": "https://download.openshock.org/desktop_modules/Medal/openshock.desktop.modules.medal_1.0.0.zip",
           "sha256Hash": "30BE82E06A8B6525F908800791F38AC5805633442320F7AEA145D689252DC27A",
           "changelogUrl": "https://github.com/OpenShock/Medal/releases/tag/1.0.0",
