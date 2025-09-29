@@ -11,10 +11,10 @@
       "iconUrl": "https://raw.githubusercontent.com/pokerfaceuhd/OpenshockModuleInformation/main/DgLabModule-Icon.png",
       "versions": {
         "0.1.0": {
-          "url": "https://download.openshock.org/desktop_modules/Medal/openshock.desktop.modules.medal_1.0.0.zip",
-          "sha256Hash": "30BE82E06A8B6525F908800791F38AC5805633442320F7AEA145D689252DC27A",
-          "changelogUrl": "https://github.com/OpenShock/Medal/releases/tag/1.0.0",
-          "releaseUrl": "https://github.com/OpenShock/LocalRelay/releases/tag/1.0.0-preview.3"
+          "url": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/download/0.1.0/openshock2coyote.zip",
+          "sha256Hash": "da6574c971fda86f47489968b1f7b85ebe943a039e02c713850060aa8f44b29b",
+          "changelogUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.1.0",
+          "releaseUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.1.0"
         }
       }
     }
