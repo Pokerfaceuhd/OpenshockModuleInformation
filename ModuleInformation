@@ -15,6 +15,12 @@
           "sha256Hash": "da6574c971fda86f47489968b1f7b85ebe943a039e02c713850060aa8f44b29b",
           "changelogUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.1.0",
           "releaseUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.1.0"
+        },
+        "0.2.0": {
+          "url": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/download/0.2.0/openshock2coyote.zip",
+          "sha256Hash": "da6574c971fda86f47489968b1f7b85ebe943a039e02c713850060aa8f44b29b",
+          "changelogUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.2.0",
+          "releaseUrl": "https://github.com/Pokerfaceuhd/DGLabCoyoteModule/releases/tag/0.2.0"
         }
       }
     }
